@@ -1,0 +1,14 @@
+.title {
+  text-align: center;
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+.users {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  column-gap: 20px;
+  justify-content: center;
+  margin-bottom: 30px;
+}
